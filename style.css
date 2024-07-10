@@ -137,3 +137,45 @@ button {
 .target-content-1 img {
   max-width: 52px;
 }
+.next-target {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 55px;
+}
+.next-target-contents {
+  max-width: 946px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.next-target-content {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 35px;
+}
+.next-target-content-1 {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  border: 2px solid gray;
+  border-radius: 15px;
+}
+.next-target-content-1 img {
+  width: 95px;
+  height: 85px;
+}
+.next-target-content-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 2px;
+}
