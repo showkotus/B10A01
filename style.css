@@ -8,7 +8,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 25px;
+  margin: 0px 25px;
+  padding: 5px;
 }
 button {
   border-radius: 10px;
@@ -51,6 +52,8 @@ button {
   display: flex;
   justify-content: center;
   padding-top: 25px;
+  background-color: aliceblue;
+  margin: 50px;
 }
 .feature-contents {
   padding-top: 50px;
