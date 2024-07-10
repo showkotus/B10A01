@@ -207,3 +207,18 @@ button {
   display: flex;
   gap: 10px;
 }
+.footer-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: blanchedalmond;
+  padding: 5px;
+}
+
+.footer-div img {
+  width: 36px;
+  height: 36px;
+}
+.footer-link:hover {
+  cursor: pointer;
+}
